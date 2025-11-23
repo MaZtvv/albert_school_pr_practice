@@ -1,0 +1,6 @@
+# aucun des fichiers csv ne peut être ajouté dans la staging area
+# a fortiori poussé sur le repo
+*.csv
+
+# tout le fichier old est ignoré
+old/
